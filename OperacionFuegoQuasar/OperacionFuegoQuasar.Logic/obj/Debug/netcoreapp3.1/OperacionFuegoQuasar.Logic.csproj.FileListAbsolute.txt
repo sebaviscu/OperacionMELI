@@ -1,0 +1,14 @@
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.deps.json
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.dll
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.pdb
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.dll
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.dll
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.pdb
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.pdb
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.csprojAssemblyReference.cache
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.AssemblyInfoInputs.cache
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.AssemblyInfo.cs
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.csproj.CoreCompileInputs.cache
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.csproj.CopyComplete
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.dll
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.pdb

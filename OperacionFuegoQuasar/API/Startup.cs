@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using OperacionFuegoQuasar.Data;
+using OperacionFuegoQuasar.Logic;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -44,6 +46,10 @@ namespace API
                 var fPath = Path.Combine(AppContext.BaseDirectory, fName);
                 _.IncludeXmlComments(fPath);
             });
+            
+            services.AddSingleton<GalaxyManager>();
+            services.AddSingleton<SatelitesRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -69,7 +75,7 @@ namespace API
             app.UseSwaggerUI(_ =>
             {
                 _.SwaggerEndpoint("/swagger/v1/swagger.json", "Operacion Fuego de Quasar");
-                _.RoutePrefix = "";
+                _.RoutePrefix = "Documentation";
 
             });
 

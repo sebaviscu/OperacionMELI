@@ -1225,6 +1225,43 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "OperacionFuegoQuasar.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "OperacionFuegoQuasar.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OperacionFuegoQuasar.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OperacionFuegoQuasar.Data.dll": {}
+        }
+      },
+      "OperacionFuegoQuasar.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "OperacionFuegoQuasar.Data": "1.0.0",
+          "OperacionFuegoQuasar.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OperacionFuegoQuasar.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OperacionFuegoQuasar.Logic.dll": {}
+        }
+      },
+      "OperacionFuegoQuasar.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/OperacionFuegoQuasar.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OperacionFuegoQuasar.Model.dll": {}
+        }
       }
     }
   },
@@ -4600,13 +4637,30 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "OperacionFuegoQuasar.Data/1.0.0": {
+      "type": "project",
+      "path": "../OperacionFuegoQuasar.Data/OperacionFuegoQuasar.Data.csproj",
+      "msbuildProject": "../OperacionFuegoQuasar.Data/OperacionFuegoQuasar.Data.csproj"
+    },
+    "OperacionFuegoQuasar.Logic/1.0.0": {
+      "type": "project",
+      "path": "../OperacionFuegoQuasar.Logic/OperacionFuegoQuasar.Logic.csproj",
+      "msbuildProject": "../OperacionFuegoQuasar.Logic/OperacionFuegoQuasar.Logic.csproj"
+    },
+    "OperacionFuegoQuasar.Model/1.0.0": {
+      "type": "project",
+      "path": "../OperacionFuegoQuasar.Model/OperacionFuegoQuasar.Model.csproj",
+      "msbuildProject": "../OperacionFuegoQuasar.Model/OperacionFuegoQuasar.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
-      "NUnit3TestAdapter >= 3.16.1"
+      "NUnit3TestAdapter >= 3.16.1",
+      "OperacionFuegoQuasar.Logic >= 1.0.0",
+      "OperacionFuegoQuasar.Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4639,7 +4693,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj": {
+              "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj"
+            },
+            "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj": {
+              "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

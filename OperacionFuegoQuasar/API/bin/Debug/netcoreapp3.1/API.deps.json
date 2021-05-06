@@ -24,6 +24,9 @@
     ".NETCoreApp,Version=v3.1": {
       "API/1.0.0": {
         "dependencies": {
+          "OperacionFuegoQuasar.Data": "1.0.0",
+          "OperacionFuegoQuasar.Logic": "1.0.0",
+          "OperacionFuegoQuasar.Model": "1.0.0",
           "Swashbuckle.AspNetCore": "6.1.4",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -372,6 +375,37 @@
         },
         "compile": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+        }
+      },
+      "OperacionFuegoQuasar.Data/1.0.0": {
+        "dependencies": {
+          "OperacionFuegoQuasar.Model": "1.0.0"
+        },
+        "runtime": {
+          "OperacionFuegoQuasar.Data.dll": {}
+        },
+        "compile": {
+          "OperacionFuegoQuasar.Data.dll": {}
+        }
+      },
+      "OperacionFuegoQuasar.Logic/1.0.0": {
+        "dependencies": {
+          "OperacionFuegoQuasar.Data": "1.0.0",
+          "OperacionFuegoQuasar.Model": "1.0.0"
+        },
+        "runtime": {
+          "OperacionFuegoQuasar.Logic.dll": {}
+        },
+        "compile": {
+          "OperacionFuegoQuasar.Logic.dll": {}
+        }
+      },
+      "OperacionFuegoQuasar.Model/1.0.0": {
+        "runtime": {
+          "OperacionFuegoQuasar.Model.dll": {}
+        },
+        "compile": {
+          "OperacionFuegoQuasar.Model.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2115,6 +2149,21 @@
       "sha512": "sha512-Ue8Ag73DOXPPB/NCqT7oN1PYSj35IETWROsIZG9EbwAtFDcgonWOrHbefjMFUGyPalNm6CSmVm1JInpURnxMgw==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.1.4",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+    },
+    "OperacionFuegoQuasar.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OperacionFuegoQuasar.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OperacionFuegoQuasar.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",

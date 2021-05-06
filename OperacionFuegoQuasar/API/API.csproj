@@ -9,6 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\OperacionFuegoQuasar.Data\OperacionFuegoQuasar.Data.csproj" />
+    <ProjectReference Include="..\OperacionFuegoQuasar.Logic\OperacionFuegoQuasar.Logic.csproj" />
     <ProjectReference Include="..\OperacionFuegoQuasar.Model\OperacionFuegoQuasar.Model.csproj" />
   </ItemGroup>
 

@@ -26,3 +26,9 @@ C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\API\obj\Debug\netcoreapp3.1\AP
 C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\API\obj\Debug\netcoreapp3.1\API.xml
 C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\API\obj\Debug\netcoreapp3.1\API.pdb
 C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\API\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.dll
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\API\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.dll
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\API\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.dll
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\API\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.pdb
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\API\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.pdb
+C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\API\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.pdb
