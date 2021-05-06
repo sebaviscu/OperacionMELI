@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OperacionFuegoQuasar.Data\OperacionFuegoQuasar.Data.csproj" />
+    <ProjectReference Include="..\OperacionFuegoQuasar.Model\OperacionFuegoQuasar.Model.csproj" />
+  </ItemGroup>
+
+</Project>

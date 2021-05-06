@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6iQR/V7abgL84fAnx4aFQBBQYVnPeqgsP3w/k26oNsZRdNQ2ZPtXxuyBSb2RdwgGvRJnosauXlWdNhV+juHUoA==",
+  "success": true,
+  "projectFilePath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sviscusso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sviscusso\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sviscusso\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\sviscusso\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\sviscusso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\sviscusso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
