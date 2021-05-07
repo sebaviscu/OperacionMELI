@@ -7,3 +7,12 @@ C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\obj
 C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.csproj.CoreCompileInputs.cache
 C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.dll
 C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.pdb
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.deps.json
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.dll
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.pdb
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.dll
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Model\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.pdb

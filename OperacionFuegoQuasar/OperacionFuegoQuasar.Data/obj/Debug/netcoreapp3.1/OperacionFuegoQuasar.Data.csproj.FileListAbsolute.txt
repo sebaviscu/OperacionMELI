@@ -10,3 +10,15 @@ C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\obj\
 C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.csproj.CopyComplete
 C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.dll
 C:\DevGit\MELI\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.pdb
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.deps.json
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.dll
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.pdb
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.dll
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\bin\Debug\netcoreapp3.1\OperacionFuegoQuasar.Model.pdb
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.dll
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Data\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Data.pdb

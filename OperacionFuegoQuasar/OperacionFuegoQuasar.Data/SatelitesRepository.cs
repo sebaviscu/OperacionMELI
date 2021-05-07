@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace OperacionFuegoQuasar.Data
 {
-    public class SatelitesRepository
+    public class SatelitesRepository : ISatelitesRepository
     {
         readonly private List<Satelite> _repository;
         public SatelitesRepository()
@@ -16,11 +16,6 @@ namespace OperacionFuegoQuasar.Data
             _repository.Add(new Satelite() { Name = "Kenobi", Coordinates = new Coordinates(-500, -200) });
             _repository.Add(new Satelite() { Name = "Skywalker", Coordinates = new Coordinates(100, -100) });
             _repository.Add(new Satelite() { Name = "Sato", Coordinates = new Coordinates(500, 100) });
-        }
-
-        public List<Satelite> GetAll()
-        {
-            return _repository;
         }
 
         public Satelite GetByName(string name)

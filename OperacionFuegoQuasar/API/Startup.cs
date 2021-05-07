@@ -46,10 +46,10 @@ namespace API
                 var fPath = Path.Combine(AppContext.BaseDirectory, fName);
                 _.IncludeXmlComments(fPath);
             });
-            
-            services.AddSingleton<GalaxyManager>();
-            services.AddSingleton<SatelitesRepository>();
 
+            services.AddSingleton<GalaxyManager>();
+            services.AddSingleton<ISatelitesRepository, SatelitesRepository>();
+            services.AddSingleton<ISignalRepository, SignalRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -76,7 +76,6 @@ namespace API
             {
                 _.SwaggerEndpoint("/swagger/v1/swagger.json", "Operacion Fuego de Quasar");
                 _.RoutePrefix = "Documentation";
-
             });
 
         }

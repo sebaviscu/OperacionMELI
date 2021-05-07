@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\API\\API.csproj": {}
+    "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\API\\API.csproj": {
+    "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\sviscusso\\.nuget\\packages\\",
-        "outputPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\API\\obj\\",
+        "projectPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\sviscusso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -29,16 +30,15 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj": {
-                "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj"
+              "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj": {
+                "projectPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj"
               },
-              "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj": {
-                "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj"
+              "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj": {
+                "projectPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj"
               },
-              "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj": {
-                "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj"
+              "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj": {
+                "projectPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj"
               }
             }
           }
@@ -51,7 +51,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -76,25 +75,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj": {
+    "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj",
+        "projectUniqueName": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj",
         "projectName": "OperacionFuegoQuasar.Data",
-        "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj",
-        "packagesPath": "C:\\Users\\sviscusso\\.nuget\\packages\\",
-        "outputPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\obj\\",
+        "projectPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj",
+        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\sviscusso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -105,10 +105,9 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj": {
-                "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj"
+              "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj": {
+                "projectPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj"
               }
             }
           }
@@ -121,7 +120,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -137,25 +135,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj": {
+    "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj",
         "projectName": "OperacionFuegoQuasar.Logic",
-        "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj",
-        "packagesPath": "C:\\Users\\sviscusso\\.nuget\\packages\\",
-        "outputPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\obj\\",
+        "projectPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj",
+        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\sviscusso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -166,13 +165,12 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj": {
-                "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj"
+              "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj": {
+                "projectPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Data\\OperacionFuegoQuasar.Data.csproj"
               },
-              "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj": {
-                "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj"
+              "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj": {
+                "projectPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj"
               }
             }
           }
@@ -185,7 +183,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -201,25 +198,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj": {
+    "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj",
+        "projectUniqueName": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj",
         "projectName": "OperacionFuegoQuasar.Model",
-        "projectPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj",
-        "packagesPath": "C:\\Users\\sviscusso\\.nuget\\packages\\",
-        "outputPath": "C:\\DevGit\\MELI\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\obj\\",
+        "projectPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj",
+        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\sviscusso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -230,7 +228,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -242,7 +239,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -258,7 +254,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
