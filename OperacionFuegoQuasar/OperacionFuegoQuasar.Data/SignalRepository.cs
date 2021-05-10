@@ -29,7 +29,7 @@ namespace OperacionFuegoQuasar.Data
 
         public List<Signal> Get(string sateliteName)
         {
-            return _repository.Where(_ => _.Name == sateliteName).ToList();
+            return _repository.Where(_ => _.Name == sateliteName.ToLowerInvariant()).ToList();
         }
 
         public void Clear()

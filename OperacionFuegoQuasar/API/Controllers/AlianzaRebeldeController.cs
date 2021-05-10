@@ -25,7 +25,7 @@ namespace API.Controllers
         [Route("topsecret/")]
         public ActionResult GetLocationAndMessage([FromBody]Request request) 
         {
-            if (request == null || request.Satellites != null)
+            if (request == null || request.Satellites == null)
                 return NotFound();
 
             var position = _galaxyManager.GetLocation(request.Satellites);
@@ -44,9 +44,11 @@ namespace API.Controllers
             if (signal == null || string.IsNullOrEmpty(satelliteName))
                 return NotFound();
 
-            signal.Name = satelliteName;
+            signal.Name = satelliteName.ToLowerInvariant();
 
-            _galaxyManager.SaveSignal(signal);
+            var signalSave = _galaxyManager.SaveSignal(signal);
+
+            if (signalSave == null) return NotFound();
 
             return Ok();
         } 

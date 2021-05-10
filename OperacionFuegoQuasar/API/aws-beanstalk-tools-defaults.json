@@ -1,0 +1,20 @@
+
+{
+    "region" : "sa-east-1",
+    "configuration" : "Debug",
+    "framework"     : "netcoreapp3.1",
+    "self-contained" : false,
+    "application"    : "API",
+    "environment"    : "API-dev2",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-af2caed8\";\"aws:ec2:vpc,Subnets\"=\"subnet-544b3b0f\"",
+    "solution-stack"       : "64bit Amazon Linux 2 v2.1.5 running .NET Core",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "api-dev2",
+    "instance-type"        : "t3a.medium",
+    "key-pair"             : "",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "aws-elasticbeanstalk-service-role",
+    "proxy-server"         : "nginx"
+}

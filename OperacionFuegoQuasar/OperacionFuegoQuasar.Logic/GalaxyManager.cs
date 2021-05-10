@@ -109,14 +109,19 @@ namespace OperacionFuegoQuasar.Logic
         /// 
         /// </summary>
         /// <param name="signal">Signs to be saved</param>
-        public void SaveSignal(Signal signal)
+        public Signal SaveSignal(Signal signal)
         {
+            var satelite = _satelitesRepository.GetByName(signal.Name);
+            if (satelite == null) return null;
+
             var signalList = _signalRepository.Get(signal.Name);
 
             if (signalList != null && signalList.Any())
                 _signalRepository.Replace(signal);
             else
                 _signalRepository.Add(signal);
+
+            return signal;
         }
 
         /// <summary>
