@@ -202,3 +202,4 @@ C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQu
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Tests\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Tests.csproj.CoreCompileInputs.cache
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll

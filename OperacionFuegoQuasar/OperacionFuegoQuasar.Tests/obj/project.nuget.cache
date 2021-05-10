@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HljzLsqRMAFWB+qpDhncWJI0eHtPjzrVCvlUY5Eb+MxL+Laerh/wymh1bVu0Hh9gw3RCLO6spYPOQkGGpuGwBg==",
+  "dgSpecHash": "yKa5rCQ0u7ZK24FYZui7+06Hr7IsmYB87cxz8cOnxYT3YG4YXAwV+86nZFDHizodwN80U7UiYuusqsxcyQN10Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Tests\\OperacionFuegoQuasar.Tests.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\sebas\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

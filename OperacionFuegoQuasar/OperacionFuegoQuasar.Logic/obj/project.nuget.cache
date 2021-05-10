@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DoWDrcxA3AqNWsEFL8nJiAEH+pgOQvTbk1uhVoCWmwGvagUcjztn5QU3/gqOfrW3A9YI/MqJqwGh5Elt0afzRg==",
+  "dgSpecHash": "/RzycHhC/9pSiR+ShPFleJkEbp8OBHybblaCxKdAvbM7CaIYZEiIjUh8sDpMi+1zuQdnQ2vYeKAKaGc3oMe2MA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

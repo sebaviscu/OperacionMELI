@@ -22,7 +22,7 @@ C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQu
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.csprojAssemblyReference.cache
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.AssemblyInfoInputs.cache
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.AssemblyInfo.cs
-C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.csproj.CoreCompileInputs.cache
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.csproj.CopyComplete
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.dll
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.pdb
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\OperacionFuegoQuasar.Logic\obj\Debug\netcoreapp3.1\OperacionFuegoQuasar.Logic.csproj.CoreCompileInputs.cache

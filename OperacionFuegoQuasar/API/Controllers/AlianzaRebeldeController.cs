@@ -57,6 +57,9 @@ namespace API.Controllers
         {
             var signals = _galaxyManager.GetSignalsForMessage();
 
+            if (signals == null)
+                return NotFound();
+
             var position = _galaxyManager.GetLocation(signals);
             var message = _galaxyManager.GetMessage(signals.Select(_ => _.Message).ToList());
 
