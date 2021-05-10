@@ -62,6 +62,11 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
       }
     },
     "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Logic\\OperacionFuegoQuasar.Logic.csproj": {
@@ -131,6 +136,11 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
       }
     },
     "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\OperacionFuegoQuasar.Model\\OperacionFuegoQuasar.Model.csproj": {
@@ -186,6 +196,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }

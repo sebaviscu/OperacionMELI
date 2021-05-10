@@ -34,6 +34,40 @@
           "bin/placeholder/OperacionFuegoQuasar.Model.dll": {}
         }
       }
+    },
+    ".NETCoreApp,Version=v3.1/linux-x64": {
+      "Microsoft.Extensions.Logging.Abstractions/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        }
+      },
+      "OperacionFuegoQuasar.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "OperacionFuegoQuasar.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OperacionFuegoQuasar.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OperacionFuegoQuasar.Data.dll": {}
+        }
+      },
+      "OperacionFuegoQuasar.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/OperacionFuegoQuasar.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OperacionFuegoQuasar.Model.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -145,6 +179,11 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
       }
     }
   }

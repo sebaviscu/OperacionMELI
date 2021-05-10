@@ -33,3 +33,4 @@ C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQu
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\API\obj\Debug\netcoreapp3.1\linux-x64\API.xml
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\API\obj\Debug\netcoreapp3.1\linux-x64\API.pdb
 C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\API\obj\Debug\netcoreapp3.1\linux-x64\API.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Escritorio\MELI\sebaviscu\OperacionMELI\OperacionFuegoQuasar\API\bin\Debug\netcoreapp3.1\linux-x64\aws-beanstalk-tools-defaults.json

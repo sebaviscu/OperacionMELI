@@ -1,0 +1,170 @@
+{
+	"info": {
+		"_postman_id": "70f6ba39-cffe-4cae-930b-a85adf6888ce",
+		"name": "Operacion MELI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Nivel 2",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"satellites\": [\r\n        {\r\n            \"name\": \"Kenobi\",\r\n            \"distance\": 100.0,\r\n            \"message\": [\r\n                \"este\",\r\n                \"\",\r\n                \"\",\r\n                \"mensaje\",\r\n                \"\"\r\n            ]\r\n        },\r\n        {\r\n            \"name\": \"skywalker\",\r\n            \"distance\": 115.5,\r\n            \"message\": [\r\n                \"\",\r\n                \"es\",\r\n                \"\",\r\n                \"\",\r\n                \"secreto\"\r\n            ]\r\n        },\r\n        {\r\n            \"name\": \"sato\",\r\n            \"distance\": 142.7,\r\n            \"message\": [\r\n                \"este\",\r\n                \"\",\r\n                \"un\",\r\n                \"\",\r\n                \"\"\r\n            ]\r\n        }\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://api-dev2.sa-east-1.elasticbeanstalk.com/AlianzaRebelde/topsecret",
+					"protocol": "http",
+					"host": [
+						"api-dev2",
+						"sa-east-1",
+						"elasticbeanstalk",
+						"com"
+					],
+					"path": [
+						"AlianzaRebelde",
+						"topsecret"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Nivel 3 - kenobi",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"distance\": 3,\r\n    \"message\": [\r\n        \"este\",\r\n        \"\",\r\n        \"\",\r\n        \"mensaje\"\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://api-dev2.sa-east-1.elasticbeanstalk.com/AlianzaRebelde/topsecret_split/kenobi",
+					"protocol": "http",
+					"host": [
+						"api-dev2",
+						"sa-east-1",
+						"elasticbeanstalk",
+						"com"
+					],
+					"path": [
+						"AlianzaRebelde",
+						"topsecret_split",
+						"kenobi"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Nivel 3 - skywalker",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"distance\": 30,\r\n    \"message\": [\r\n        \"\",\r\n        \"es\",\r\n        \"\",\r\n        \"mensaje\"\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://api-dev2.sa-east-1.elasticbeanstalk.com/AlianzaRebelde/topsecret_split/skywalker",
+					"protocol": "http",
+					"host": [
+						"api-dev2",
+						"sa-east-1",
+						"elasticbeanstalk",
+						"com"
+					],
+					"path": [
+						"AlianzaRebelde",
+						"topsecret_split",
+						"skywalker"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Nivel 3 - sato",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"distance\": 30,\r\n    \"message\": [\r\n        \"\",\r\n        \"\",\r\n        \"un\",\r\n        \"\"\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://api-dev2.sa-east-1.elasticbeanstalk.com/AlianzaRebelde/topsecret_split/sato",
+					"protocol": "http",
+					"host": [
+						"api-dev2",
+						"sa-east-1",
+						"elasticbeanstalk",
+						"com"
+					],
+					"path": [
+						"AlianzaRebelde",
+						"topsecret_split",
+						"sato"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Nivel 3",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"distance\": 4,\r\n    \"message\": [\r\n        \"\",\r\n        \"\",\r\n        \"ddd\",\"fff\"\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://api-dev2.sa-east-1.elasticbeanstalk.com/AlianzaRebelde/topsecret_split",
+					"protocol": "http",
+					"host": [
+						"api-dev2",
+						"sa-east-1",
+						"elasticbeanstalk",
+						"com"
+					],
+					"path": [
+						"AlianzaRebelde",
+						"topsecret_split"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

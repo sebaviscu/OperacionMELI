@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3+OQ2/+VWtGe42tvLrop5VE5vZjaXyF72y0wuW8z3jNQzJ0aTxQzrnLZLzYsH30kAR9kGlikYy6VQVXopJOu2g==",
+  "dgSpecHash": "ZWGpQHim0rMjnHvKXPCl2ta5ZKxkcoad5mvzVYpGtrDb6p5Apqa/qIZ+3CQ4xASJh2hFrKQijNf6L3cT1OT8Xw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\MELI\\sebaviscu\\OperacionMELI\\OperacionFuegoQuasar\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,8 @@
     "C:\\Users\\sebas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
-    "C:\\Users\\sebas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+    "C:\\Users\\sebas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.6\\microsoft.netcore.app.host.linux-x64.3.1.6.nupkg.sha512"
   ],
   "logs": []
 }
